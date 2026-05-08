@@ -1,2 +1,2 @@
-# hashh_generator
+# hash_generator
 tugas
